@@ -1,4 +1,6 @@
 # Dynamic College Counseling System
+Link to website: https://gopaldwivedii.github.io/TechTrio/index.html
+
 ---
 
 ### Screenshots
